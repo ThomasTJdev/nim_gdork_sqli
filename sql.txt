@@ -1,0 +1,12 @@
+check the manual that corresponds to your MySQL
+SQL syntax
+server version for the right syntax
+expects parameter 1 to be
+Unclosed quotation mark before the character string
+An unhanded exception occurred during the execution
+Please review the stack trace for more information
+java.sql.SQLException: ORA-00933
+SQLExceptionjava.sql.SQLException
+quoted string not properly terminated
+Query failed:
+unterminated quoted string at or near
